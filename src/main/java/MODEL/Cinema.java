@@ -4,6 +4,8 @@
  */
 package MODEL;
 
+import padroes.Sala3d;
+
 /**
  *
  * @author lucas
