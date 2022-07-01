@@ -19,7 +19,7 @@ import java.util.logging.Logger;
  * Esta classe contém os métodos para manipulação dos arquivos utilizados no sistema.
  * @author Jorge
  */
-abstract class Arquivo {
+public class Arquivo {
     
    /**
     *     * Metodo que vai nos garantir que haja valores em único arquivo, simulando chaves primarias
